@@ -1,4 +1,4 @@
-package Students;
+package MiniProjectStudentManagement;
 
 import java.util.*;
 
