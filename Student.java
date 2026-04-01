@@ -1,4 +1,4 @@
-package Students;
+package MiniProjectStudentManagement;
 
 public class Student {
     private int id;
